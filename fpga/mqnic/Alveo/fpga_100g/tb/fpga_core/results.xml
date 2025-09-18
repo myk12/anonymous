@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1734846061" />
+    <testcase name="run_test_time_sync" classname="test_fpga_core" file="/home/yukema/TimeSYNC/TimeSYNC/fpga/mqnic/Alveo/fpga_100g/tb/fpga_core/test_fpga_core.py" lineno="640" time="74.14761090278625" sim_time_ns="74044.0" ratio_time="998.6026400375583">
+      <failure message="Test failed with RANDOM_SEED=1734846061" />
+    </testcase>
+  </testsuite>
+</testsuites>
